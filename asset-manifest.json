@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lavish-project/static/css/main.5afe29ed.chunk.css",
+    "main.js": "/lavish-project/static/js/main.f425b96c.chunk.js",
+    "main.js.map": "/lavish-project/static/js/main.f425b96c.chunk.js.map",
+    "runtime-main.js": "/lavish-project/static/js/runtime-main.87461967.js",
+    "runtime-main.js.map": "/lavish-project/static/js/runtime-main.87461967.js.map",
+    "static/js/2.bd068980.chunk.js": "/lavish-project/static/js/2.bd068980.chunk.js",
+    "static/js/2.bd068980.chunk.js.map": "/lavish-project/static/js/2.bd068980.chunk.js.map",
+    "index.html": "/lavish-project/index.html",
+    "static/css/main.5afe29ed.chunk.css.map": "/lavish-project/static/css/main.5afe29ed.chunk.css.map",
+    "static/js/2.bd068980.chunk.js.LICENSE.txt": "/lavish-project/static/js/2.bd068980.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87461967.js",
+    "static/js/2.bd068980.chunk.js",
+    "static/css/main.5afe29ed.chunk.css",
+    "static/js/main.f425b96c.chunk.js"
+  ]
+}
